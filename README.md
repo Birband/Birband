@@ -8,7 +8,7 @@ I am passionate about software development, algorithms, and machine learning. I 
 
 - 🏫 University: Gdańsk University of Technology
 - 📚 Degree: Computer Science
-- 📧 Contact: [Email](mailto:maciejsztramski@gmail.com) (Optional)
+- 📧 Contact: [Email](mailto:maciejsztramski@gmail.com)
 
 ## Skills & Technologies
 
