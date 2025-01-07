@@ -1,4 +1,4 @@
-# Computer Science Projects
+# Birband
 
 Welcome to my GitHub! I am a student at Gdańsk University of Technology, currently studying Computer Science. This repository contains my projects, exercises, and research in various domains of computer science.
 
