@@ -4,7 +4,7 @@ Welcome to my GitHub! I am a student at Gdańsk University of Technology, curren
 
 ## About Me
 
-I do stuff i like. I enjoy most ML related projects, benchmarking, and coding useless scripts.
+I do stuff I like. I enjoy most ML related projects, benchmarking, and coding useless scripts.
 
 - 🏫 University: Gdańsk University of Technology
 - 📚 Degree: Computer Science
