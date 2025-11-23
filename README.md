@@ -13,7 +13,7 @@ I do stuff I like. I enjoy most ML related projects, benchmarking, and coding us
 
 ## Skills & Technologies
 
-- Programming Languages: Python, C++, C#, JavaScript, TypeScript
-- Frameworks & Libraries: React, TensorFlow, PyTorch
+- Programming Languages: Python, C#, JavaScript, TypeScript
+- Frameworks & Libraries: React, Angular, TensorFlow, PyTorch
 - Tools: Git, Docker
 - Concepts: Data Structures, Algorithms, Machine Learning
